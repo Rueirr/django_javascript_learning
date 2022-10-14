@@ -1,1 +1,0 @@
-# django_javascript_learning
